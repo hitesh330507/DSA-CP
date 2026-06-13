@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+target/
+bin/
+build/
+
+# C/C++
+*.o
+*.out
+a.out
+
+# IDEs / editors
+.vscode/
+.idea/
+*.iml
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*~
